@@ -1,2 +1,3 @@
 # repositorio_01
-Cambios que se van haciendo en el repositorio
+Probando un commit, el log de los cambios realizados en el repositorio por varias personas
+
